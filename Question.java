@@ -9,3 +9,6 @@ public class Question {               //h diadikasia ths erwthshs//
 		this.answer = answer;
 	}
 }
+	
+	
+	
